@@ -1,10 +1,64 @@
 {
-	"posts": [
-		{
-			"id": 1
+	"weather": [
+		"01-01-2021": {
+			"forecast": "sunny",
+			"low_temp": 26,
+			"high_temp" 48,
+			"percent_precipitation": 0
 		},
-		{
-			"id": 2
-		}
+		"01-02-2021": {
+			"forecast": "sunny",
+			"low_temp": 33,
+			"high_temp" 55,
+			"percent_precipitation": 5
+		},
+		"01-03-2021": {
+			"forecast": "sunny",
+			"low_temp": 34,
+			"high_temp" 59,
+			"percent_precipitation": 5
+		},
+		"01-04-2021": {
+			"forecast": "sunny",
+			"low_temp": 45,
+			"high_temp" 61,
+			"percent_precipitation": 10
+		},
+		"01-05-2021": {
+			"forecast": "sunny",
+			"low_temp": 49,
+			"high_temp" 64,
+			"percent_precipitation": 25
+		},
+		"01-06-2021": {
+			"forecast": "sunny",
+			"low_temp": 40,
+			"high_temp" 62,
+			"percent_precipitation": 35
+		},
+		"01-07-2021": {
+			"forecast": "sunny",
+			"low_temp": 30,
+			"high_temp" 52,
+			"percent_precipitation": 25
+		},
+		"01-08-2021": {
+			"forecast": "sunny",
+			"low_temp": 36,
+			"high_temp" 52,
+			"percent_precipitation": 15
+		},
+		"01-09-2021": {
+			"forecast": "sunny",
+			"low_temp": 38,
+			"high_temp" 57,
+			"percent_precipitation": 25
+		},
+		"01-10-2021": {
+			"forecast": "sunny",
+			"low_temp": 37,
+			"high_temp" 56,
+			"percent_precipitation": 45
+		},
 	]
 }
