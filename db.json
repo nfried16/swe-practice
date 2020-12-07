@@ -70,5 +70,42 @@
 			"high_temp": 56,
 			"percent_precipitation": 45
 		}
+	],
+	"posts": [
+		{
+			"author": "nfried16",
+			"date_posted": "01-01-2021",
+			"title": "Good morning",
+			"content": "Aenean vitae ipsum vitae diam ullamcorper pharetra. Donec vitae enim in nulla dictum sollicitudin et eget mauris. Suspendisse ac blandit augue, vel tempus urna. Maecenas ultricies pellentesque magna, ac efficitur est auctor quis. Proin dapibus porta accumsan. Maecenas sed commodo dolor. Vestibulum felis orci, faucibus vitae sapien ac, pellentesque pretium lorem. Donec ut lectus convallis, sagittis quam id, volutpat arcu. Phasellus id maximus tellus, sit amet placerat enim. Mauris malesuada hendrerit nisl a porta. Sed rutrum tincidunt dolor, ultricies accumsan odio egestas vitae. Vivamus id metus nec lorem suscipit rutrum. Cras iaculis magna vel posuere ultricies. Suspendisse mauris lorem, sagittis eget congue vitae, tempus at mauris. Curabitur nec vulputate lectus, non tristique justo. Aliquam dolor libero, egestas at urna sed, sollicitudin auctor lacus.",
+			"topic": "Sports"
+		},
+		{
+			"author": "daml member",
+			"date_posted": "01-02-2021",
+			"title": "Hello",
+			"content": "Pellentesque id turpis hendrerit, ultrices urna at, semper est. Curabitur scelerisque nibh id justo pellentesque, ac dapibus ligula vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi libero tortor, porttitor in tellus sit amet, sodales convallis libero. Fusce molestie venenatis pulvinar. Pellentesque rhoncus tristique nibh et vestibulum. Quisque elit urna, pulvinar et fringilla non, fringilla in nibh. Nulla vitae sapien ut velit porttitor condimentum. Donec pharetra magna sit amet augue facilisis, in elementum quam pharetra. Proin nec libero efficitur, vehicula lorem nec, varius massa. Duis sapien justo, mattis a orci id, rutrum aliquet eros. Nulla sapien erat, tempor id posuere at, imperdiet id justo. Proin cursus vel mi a elementum. Duis vitae tortor et tortor sagittis euismod. In sit amet vehicula massa, ut sollicitudin nunc. Pellentesque bibendum imperdiet lacus id hendrerit.",
+			"topic": "Science"
+		},
+		{
+			"author": "jsreact123",
+			"date_posted": "01-03-2021",
+			"title": "Submit your symptom monitoring",
+			"content": "Pellentesque sit amet vestibulum sem. Vestibulum quis vehicula nulla, quis accumsan eros. Pellentesque congue est eros, ac accumsan ligula malesuada vitae. Morbi non luctus lacus. Sed sit amet bibendum sem. Etiam urna augue, sagittis lobortis pellentesque vel, imperdiet vitae urna. Mauris venenatis massa id purus aliquam, sed finibus quam hendrerit. Maecenas suscipit dui eu maximus maximus.",
+			"topic": "Education"
+		},
+		{
+			"author": "swerocks",
+			"date_posted": "01-04-2021",
+			"title": "New game",
+			"content": "Nunc lorem eros, pellentesque eget nulla ac, pretium maximus tortor. Curabitur gravida ullamcorper lorem et tempus. Vivamus non nunc imperdiet, tincidunt quam ut, interdum turpis. Maecenas scelerisque massa eget arcu finibus feugiat quis et ante. Praesent viverra dui neque, fringilla lobortis dui semper sodales. Etiam suscipit tellus in ex pellentesque, non volutpat enim gravida. Aenean feugiat eros sit amet urna rhoncus, non scelerisque urna vestibulum. Cras eros ipsum, ullamcorper in imperdiet non, ultrices at turpis. Etiam lacinia odio eget velit malesuada condimentum. Duis posuere posuere massa sed pretium. Nullam feugiat diam quis libero semper blandit.",
+			"topic": "Art"
+		},
+		{
+			"author": "ola",
+			"date_posted": "01-05-2021",
+			"title": "I hate bubble sort",
+			"content": "Cras nec diam a massa auctor tempor. Ut efficitur ligula ut enim malesuada finibus. Nam vulputate feugiat lectus a facilisis. Donec condimentum odio sit amet nibh tristique tincidunt. Aliquam ac pretium nibh. Nam tristique sed nunc nec mollis. Proin imperdiet metus vitae quam convallis porta.",
+			"topic": "Science"
+		}
 	]
 }
